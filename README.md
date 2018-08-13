@@ -4,7 +4,7 @@ Uma app simples em node usando [Express 4](http://expressjs.com/)
 
 ## Build da Imagem:
 
-Crie um Dockerfile com as especificacoes abaixo_
+Crie um Dockerfile com as especificacoes abaixo
 
 ```sh
 FROM node:carbon
